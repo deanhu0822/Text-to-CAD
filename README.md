@@ -51,5 +51,3 @@ We're open to collaboration! Feel free to fork the repo, suggest features, or ra
 
 📧 **Contact**: info@caidstudio.co
 
-
----

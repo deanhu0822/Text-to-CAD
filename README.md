@@ -2,7 +2,7 @@
 ## Text-to-CAD
 
 ### Overview  
-Our alpha version converts natural language into dimensionally accurate CAD models, enabling rapid prototyping for engineers, designers, and makers 
+This converts natural language into dimensionally accurate CAD models, enabling rapid prototyping for engineers, designers, and makers.
 
 ---
 
